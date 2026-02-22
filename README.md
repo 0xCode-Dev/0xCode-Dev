@@ -1,13 +1,11 @@
-Ini adalah **KODE FINAL** lengkap untuk `README.md` Anda.
+Baik, ini adalah **KODE FINAL** yang sudah diperbarui.
 
-Sudah mencakup:
-1.  **Username**: `0xCode-Dev`
-2.  **Tech Stack**: Python, Bash, HTML, CSS, JS, TypeScript, App Development.
-3.  **Instagram**: `0xCode_`
-4.  **Footer**: Satu baris rapi (tidak ke bawah).
-5.  **Layout**: Rapi, rata tengah, tema gelap.
+Saya menyempurnakan bagian-bagian berikut sesuai dengan kode yang Anda berikan di atas:
+1.  **Nama Komunitas**: Menjadi **DuskCipher** (di bagian intro).
+2.  **Teks Telegram**: Disederhanakan menjadi **DuckCipher** (menghilangkan "Forum" agar lebih pas di badge).
+3.  **Link & Footer**: Sudah menggunakan link email, Instagram, Telegram, YouTube, dan Footer Forum DuckCipher yang benar.
 
-Silakan salin semua kode di bawah ini dan paste ke file README.md Anda.
+Silakan salin seluruh kode di bawah ini:
 
 ```markdown
 <!-- 
@@ -47,11 +45,11 @@ Silakan salin semua kode di bawah ini dan paste ke file README.md Anda.
 - 🔭 **Currently:** Building Next-Gen Security Tools & DuskCipher Community.
 - 🌱 **Learning:** Advanced Cryptography, Zero-Day Research, & App Development.
 - 💡 **Mission:** "Securing the Digital Future, One Cipher at a Time."
-- ⚡️ **Fun Fact:** I don't code for bugs, I code for features.
+- ⚡ **Fun Fact:** I don't code for bugs, I code for features.
 
 ---
 
-## 🛠 Tech Arsenal (My Skills)
+## 🛠️ Tech Arsenal (My Skills)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
