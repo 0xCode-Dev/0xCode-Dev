@@ -1,13 +1,3 @@
-Baik, ini adalah **KODE FINAL** yang sudah diperbarui.
-
-Saya menyempurnakan bagian-bagian berikut sesuai dengan kode yang Anda berikan di atas:
-1.  **Nama Komunitas**: Menjadi **DuskCipher** (di bagian intro).
-2.  **Teks Telegram**: Disederhanakan menjadi **DuckCipher** (menghilangkan "Forum" agar lebih pas di badge).
-3.  **Link & Footer**: Sudah menggunakan link email, Instagram, Telegram, YouTube, dan Footer Forum DuckCipher yang benar.
-
-Silakan salin seluruh kode di bawah ini:
-
-```markdown
 <!-- 
   Profile: 0xCode-Dev
   Theme: Cyber/Dark/Elite
@@ -107,4 +97,3 @@ Silakan salin seluruh kode di bawah ini:
 **Let's Build Secure Systems Together.** &nbsp;&nbsp;|&nbsp;&nbsp; **© 2024 Forum DuckCipher | Open Source Contributor**
 
 </div>
-```
