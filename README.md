@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h3>I'm <a href="https://github.com/0xCode-Dev">0xCode_</a>, Founder of <a href="#">DuskCipher</a> ☠️</h3>
+  <h3>I'm <a href="https://github.com/0xCode-Dev">0xCode_</a>, Founder of <a href="https://github.com/DuskCipher">DuskCipher</a> ☠️</h3>
   <i>(Cybersecurity Researcher & Digital Architect)</i>
 </div>
 
